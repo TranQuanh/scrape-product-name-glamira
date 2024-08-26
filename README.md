@@ -36,27 +36,25 @@ Ensure the dictionary format is consistent and easily convertible to a structure
 # :bookmark_tabs:Example Product Dictionay
 
 ```python
-"GLAMIRA Earring Varandus": {
-        "14K Yellow Gold & Lab Grown Diamond": {
-            "Product Name": "GLAMIRA Earring Varandus",
-            "Product ID": "149768",
-            "Product Full Link": "https://www.glamira.com/glamira-earring-varandus.html?accent=olivegreen&alloy=yellow-585&stone1=lab-grown-diamond&stone2=lab-grown-diamond",
+"GLAMIRA Earring Gaisma - B": {
+        "14K Yellow Gold & Emerald": {
+            "Product Name": "GLAMIRA Earring Gaisma - B",
+            "Product ID": "159474",
+            "Product Full Link": "https://www.glamira.com/glamira-earring-gaisma-b.html?alloy=yellow-585&stone1=emerald",
             "Category ID": "1039",
-            "Price": "$801.00",
-            "Carat": "0.26 crt  - VS",
+            "Price": "$379.00",
+            "Carat": "0.06 crt  - AAA",
             "Detail": {
-                "accent": "olivegreen",
                 "alloy": "yellow-585",
-                "stone1": "lab-grown-diamond",
-                "stone2": "lab-grown-diamond"
+                "stone1": "emerald"
             },
-            "Descript": "14K Yellow Gold & Lab Grown Diamond",
+            "Descript": "14K Yellow Gold & Emerald",
             "Product Image Path": [
-                "/Users/dai/Documents/Data_Engineer/DE_K9_demo/Glamira_photo/photo/image_149768_GLAMIRA-Earring-Varandus_accent=olivegreen&alloy=yellow-585&stone1=lab-grown-diamond&stone2=lab-grown-diamond_1",
-                "/Users/dai/Documents/Data_Engineer/DE_K9_demo/Glamira_photo/photo/image_149768_GLAMIRA-Earring-Varandus_accent=olivegreen&alloy=yellow-585&stone1=lab-grown-diamond&stone2=lab-grown-diamond_2"
+                "D:\\VScode\\DE\\crawl_data\\Beautifulsoup\\Glamira\\project_glamira\\photo\\image_159474_GLAMIRA-Earring-Gaisma---B_alloy=yellow-585&stone1=emerald_1",
+                "D:\\VScode\\DE\\crawl_data\\Beautifulsoup\\Glamira\\project_glamira\\photo\\image_159474_GLAMIRA-Earring-Gaisma---B_alloy=yellow-585&stone1=emerald_2",
+                "D:\\VScode\\DE\\crawl_data\\Beautifulsoup\\Glamira\\project_glamira\\photo\\image_159474_GLAMIRA-Earring-Gaisma---B_alloy=yellow-585&stone1=emerald_3",
+                "D:\\VScode\\DE\\crawl_data\\Beautifulsoup\\Glamira\\project_glamira\\photo\\image_159474_GLAMIRA-Earring-Gaisma---B_alloy=yellow-585&stone1=emerald_4"
             ]
         }
+    }
 ```
-
-
-
